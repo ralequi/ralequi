@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![](https://github-readme-stats-nu-lac.vercel.app/api?username=ralequi&icon_color=CE1D2D&show_icons=true&theme=dark&text_color=718096&hide_title=true)](https://github-readme-stats.vercel.app/api?username=ralequi&icon_color=CE1D2D&show_icons=true&theme=dark&text_color=718096&hide_title=true)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ralequi&hide=Tex,Java)](https://github-readme-stats.vercel.app/api/top-langs/?username=ralequi&hide=Tex,Java)
+[![](https://github-readme-stats-nu-lac.vercel.app/api?username=ralequi&icon_color=CE1D2D&show_icons=true&theme=dark&text_color=718096&hide_title=true)](https://github-readme-stats.vercel.app/api?username=ralequi&icon_color=CE1D2D&show_icons=true&theme=dark&hide_title=true)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ralequi&hide=Tex,Java&theme=dark&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ralequi&hide=Tex,Java&theme=dark&layout=compact)
 
 <!--
 **ralequi/ralequi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
